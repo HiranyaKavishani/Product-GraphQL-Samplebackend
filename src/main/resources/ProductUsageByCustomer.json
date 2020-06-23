@@ -1,0 +1,24 @@
+{
+  "data": {
+    "product":
+      {
+        "id": 2,
+        "name": "T-Shirt",
+        "category": "CLOTHING",
+        "customer":[
+          {
+             "id" : 1,
+             "name" :"John"
+          },
+          {
+            "id" : 2,
+            "name" :"Tom"
+          },
+          {
+            "id" : 3,
+            "name" :"Jane"
+          }
+        ]
+      }
+  }
+}

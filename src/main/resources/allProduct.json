@@ -1,0 +1,24 @@
+{
+  "data": {
+    "allProducts": [
+      {
+        "id": 1,
+        "name": "T-Shirt",
+        "description": "Blue Color T-Shirt",
+        "category": "CLOTHING"
+      },
+      {
+        "id": 2,
+        "name": "Sandals",
+        "description": "Ladies Sandals",
+        "category": "FOOTWEAR"
+      },
+      {
+        "id": 3,
+        "name": "Frock",
+        "description": "Red Color Frock",
+        "category": "CLOTHING"
+      }
+    ]
+  }
+}
